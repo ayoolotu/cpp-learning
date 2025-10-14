@@ -1,0 +1,10 @@
+List of siblings
+Bob
+Gender: Male
+Age: 2
+Sally
+Gender: 23
+Age: 34
+Cat
+Gender: Female
+Age: 67
