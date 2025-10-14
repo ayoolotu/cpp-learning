@@ -21,17 +21,17 @@ int main(){
     ifstream fin("grades.txt");
 
     string type;
-		float score;
+	float score;
 
-		float lab_total = 0.0;
-		float quiz_total = 0.0;
-		float midterm_total = 0.0;
+	float lab_total = 0.0;
+	float quiz_total = 0.0;
+	float midterm_total = 0.0;
 
-		int lab_count = 0;
-		int quiz_count = 0;
+	int lab_count = 0;
+	int quiz_count = 0;
 
-		float labs[100];
-		float quizzes[100];
+	float labs[100];
+	float quizzes[100];
 
     while(fin >> type >> score){
 			if(type == "L"){
