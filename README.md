@@ -48,3 +48,16 @@ You can compile and run from the terminal:
 ```bash
 g++ *.cpp -o program
 ./program
+```
+
+## 💡 Tools Used
+- Language: C++17
+- Compiler: MinGW-w64 / GCC
+- IDE: Visual Studio Code
+- Platform: Windows 10 / 11 (portable to macOS or Linux)
+
+## 🏁 Goals
+
+This repository helped me to:
+- Learn memory management and data structures
+- Practice file input/output
