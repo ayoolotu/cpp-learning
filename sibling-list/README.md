@@ -51,9 +51,10 @@ This C++ project demonstrates how to use **linked lists** to manage and store fa
   How many siblings do you have? 2
   Enter sibling #1 name: Sara
   Enter sibling #1 age: 21
-  Enter sibling #1 gender: F
+  Enter sibling #1 gender: Female
   Enter sibling #2 name: Max
   Enter sibling #2 age: 15
-  Enter sibling #2 gender: M
+  Enter sibling #2 gender: Male
   ```
 3. The program prints the list to the console and saves it to `siblings.txt`.
+
