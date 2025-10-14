@@ -12,6 +12,16 @@ This C++ program reads student grade data from a file and calculates:
 
 ---
 
+## 💻 Files
+
+| File | Description |
+|------|--------------|
+| `grade.cpp` | Main program source |
+| `grades.txt` | Input data file |
+| `.vscode/` | Optional VS Code configuration files |
+
+---
+
 ## 🧩 Features
 
 - Reads `grades.txt` with entries like:
@@ -46,3 +56,4 @@ This C++ program reads student grade data from a file and calculates:
  ```bash
  g++ grade.cpp -o grade.exe
  ./grade.exe
+
